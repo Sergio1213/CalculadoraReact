@@ -1,8 +1,31 @@
-# React + Vite
+# Calculadora Simple en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación de calculadora simple desarrollada en React. Permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-Currently, two official plugins are available:
+## Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clona este repositorio en tu máquina local:
+
+    ```bash
+    git clone https://github.com/Sergio1213/CalculadoraReact.git
+    ```
+
+2. Ve al directorio de la aplicación:
+
+    ```bash
+    cd calculadora-react
+    ```
+
+3. Instala las dependencias necesarias:
+
+    ```bash
+    npm install
+    ```
+
+## Uso
+
+Una vez que hayas instalado las dependencias, puedes ejecutar la aplicación en tu entorno de desarrollo local usando el siguiente comando:
+
+```bash
+npm start
+
