@@ -13,7 +13,7 @@ Esta es una aplicación de calculadora simple desarrollada en React. Permite rea
 2. Ve al directorio de la aplicación:
 
     ```bash
-    cd calculadora-react
+    cd CalculadoraReact
     ```
 
 3. Instala las dependencias necesarias:
