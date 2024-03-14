@@ -27,5 +27,5 @@ Esta es una aplicación de calculadora simple desarrollada en React. Permite rea
 Una vez que hayas instalado las dependencias, puedes ejecutar la aplicación en tu entorno de desarrollo local usando el siguiente comando:
 
 ```bash
-npm start
+npm run dev
 
